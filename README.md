@@ -9,9 +9,12 @@ If you need any software to bypass special browser to avoid remote assistance in
 Feel free to reach out to me via email or skype. Thank you!
 
 ## Contract
-aramfrrei@gmail.com
+
+[@bypassy](https://t.me/bypassy)
 
 live:.cid.258b728263fb7085
+
+
 
 ## Demo
 ![screenshot](./Screenshot_2.png)
