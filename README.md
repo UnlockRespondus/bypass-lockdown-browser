@@ -1,4 +1,4 @@
-# Lockdown Browser Bypassing Software  2024
+# Lockdown Browser Bypass Software  2024
 
 ## Overview
 
