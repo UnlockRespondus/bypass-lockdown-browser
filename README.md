@@ -1,3 +1,9 @@
+## Contact
+aramfrrei@gmail.com
+
+live:.cid.258b728263fb7085
+
+
 ![screenshot](./Screenshot_2.png)
 
 Bypass lockdown browser.
