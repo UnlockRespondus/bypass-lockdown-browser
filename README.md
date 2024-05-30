@@ -11,6 +11,7 @@ Feel free to reach out to me via email or skype. Thank you!
 ## Contract
 
 [@bypassy](https://t.me/bypassy)
+discord: bypassy
 
 live:.cid.258b728263fb7085
 
