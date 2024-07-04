@@ -29,4 +29,4 @@ live:.cid.258b728263fb7085
 
 ## Demo
 
-![screenshot](./Screenshot.png)
+![screenshot](./Demo.gif)
