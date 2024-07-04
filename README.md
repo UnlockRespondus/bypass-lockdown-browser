@@ -27,7 +27,6 @@ discord: bypassy
 
 live:.cid.258b728263fb7085
 
-
-
 ## Demo
-![screenshot](./Screenshot_2.png)
+
+![screenshot](./Screenshot.png)
