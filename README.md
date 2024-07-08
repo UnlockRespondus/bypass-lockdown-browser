@@ -21,7 +21,7 @@ Thank you!
 
 ## Contract
 
-[@bypassy](https://t.me/bypassy)
+telegram: [@bypassy](https://t.me/bypassy)
 
 discord: bypassy
 
