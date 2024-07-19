@@ -23,6 +23,8 @@ Thank you!
 
 telegram: [@bypassy](https://t.me/bypassy)
 
+telegram group: [@BypassLockdownBrowser](https://t.me/BypassLockdownBrowser)
+
 discord: bypassy
 
 whatsapp: +44 7767328564
