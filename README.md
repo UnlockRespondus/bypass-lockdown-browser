@@ -37,5 +37,6 @@ skype: live:.cid.258b728263fb7085
 
 ![screenshot](./Demo.gif)
 
-## How to cheat with Respondus lockdown browser
-## How to cheat on lockdown browser
+How to cheat with Respondus lockdown browser
+How to cheat on lockdown browser
+Lockdown Browser Bypass Method (100% working)
