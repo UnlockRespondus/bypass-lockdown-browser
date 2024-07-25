@@ -12,6 +12,8 @@ This tool is perfect for using other applications, **such as Chrome**, while run
 
 * **Window Switching**: Easily switch between windows using Alt+Tab without any notification with LockDown Browser.
 
+* **Capture Screenshot**: Press the Print Screen key to take a screenshot.
+
 * **Custom Solutions**: Need a specialized bypass for a specific exam browser? I can develop custom software to meet your exact needs.
 
   
