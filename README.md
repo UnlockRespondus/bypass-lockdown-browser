@@ -4,11 +4,11 @@
 
 I have developed a software in 2024 to bypass lockdown browser which is used widely for online exams. 
 
-This tool is perfect for using other applications, **such as Chrome**, while running LockDown Browser and for those who require remote assistance through platforms like **Anydesk, RemotePC, TeamViewer and Microsoft Teams**.
+This tool is perfect for using other applications, **such as Chrome**, while running LockDown Browser and for those who require remote assistance through platforms like **Anydesk, RemotePC, TeamViewer and getscreen.me, Chrome Remote**.
 
 ## Key Features
 
-* **Remote Assistance Possibility**: Use Anydesk, Microsoft Teams, Remote Desktop, and TeamViewer seamlessly with LockDown Browser.
+* **Application Possibility**: AnyDesk, TeamViewer, RemotePC, RealVNC, getscreen.me, Chrome Remote, Chrome, Lightshot
 
 * **Window Switching**: Easily switch between windows using Alt+Tab without any notification with LockDown Browser.
 
