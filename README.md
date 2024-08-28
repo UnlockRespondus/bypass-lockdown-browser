@@ -19,15 +19,15 @@ Thank you!
 
 ## Contract
 
-telegram: [@bypassy](https://t.me/bypassy)
+Telegram: [@bypassy](https://t.me/bypassy)
 
-telegram group: [@BypassLockdownBrowser](https://t.me/BypassLockdownBrowser)
+Telegram channel: [@BypassLockdownBrowser](https://t.me/BypassLockdownBrowser)
 
-discord: bypassy
+Discord: bypassy
 
-whatsapp: +44 7767328564
+Whatsapp: +44 7767328564
 
-skype: live:.cid.258b728263fb7085
+Skype: live:.cid.258b728263fb7085
 
 ## How to cheat with Respondus lockdown browser
 
