@@ -1,4 +1,4 @@
-# Bypass Respondus Lockdown Browser 2024
+# How to bypass Respondus LockDown Browser 2024
 
 ## Overview
 
