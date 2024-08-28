@@ -1,10 +1,6 @@
-# How to bypass Respondus LockDown Browser 2024
+# How to bypass Respondus LockDown Browser
 
-## Overview
-
-I have developed a software in 2024 to bypass respondus lockdown browser which is used widely for online exams. 
-
-This tool is perfect for using other applications, **such as Chrome**, while running LockDown Browser and for those who require remote assistance through platforms like **Anydesk, RemotePC, TeamViewer and getscreen.me, Chrome Remote**.
+You can easily bypass and cheat the Respondus LockDown Browser.
 
 ## Key Features
 
