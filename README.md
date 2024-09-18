@@ -19,7 +19,7 @@ Thank you!
 
 ## Contract
 
-Telegram: [@bypassy](https://t.me/bypassy)
+Telegram: [@bypassexam](https://t.me/bypassexam), [@bypassy](https://t.me/bypassy)
 
 Telegram channel: [@BypassLockdownBrowser](https://t.me/BypassLockdownBrowser)
 
