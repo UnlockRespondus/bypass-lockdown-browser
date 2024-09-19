@@ -3,7 +3,7 @@
 ![LockDown Browser](./Demo.gif "Bypass")
 
 ## Introduction
-You can easily bypass and cheat the Respondus LockDown Browser.
+You can easily bypass and cheat the Respondus LockDown Browser. <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=UnlockRespondus.bypass-lockdown-browser" />
 
 ## Key Features
 
